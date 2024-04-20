@@ -1,2 +1,2 @@
 # Web-Scraping-workshop
-Web Scraping with Python workshop (2024)
+Web Scraping with Python workshop resources (2024)
